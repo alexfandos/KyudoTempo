@@ -5,6 +5,9 @@
 .kotlin
 /.artifacts
 /app/release
+*.jks
+*.keystore
+keystore.properties
 .DS_Store
 /build
 /captures
